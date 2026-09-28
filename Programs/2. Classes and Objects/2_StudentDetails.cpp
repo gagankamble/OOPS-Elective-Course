@@ -16,7 +16,7 @@ public:
         cout << "Enter Age:";
         cin >>age;
 
-        //name = "Suhani";
+        //name = "Gagan";
         age = 21;
     }
     void Display() {
